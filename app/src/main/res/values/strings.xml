@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalciApp</string>
+    <string name="cal_text">0</string>
+</resources>
